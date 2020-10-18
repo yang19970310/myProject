@@ -137,7 +137,7 @@ $('#location').areaList({
     // 默认显示值
     nowItem: '北京',
     // 显示图片  图标
-    nowItemImg: '../jd/image/local.jpg'
+    nowItemImg: './jd/image/local.jpg'
 });
 
 
