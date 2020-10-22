@@ -400,7 +400,7 @@ a {
     width: 35px;
     height: 35px;
     overflow: hidden;
-    background-image: url('./jd/image/services.png');
+    background-image: url('../image/services.png');
 }
 .user .services .services_entry div.huafei{
     background-position: 0px -2px;
